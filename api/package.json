@@ -5,9 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Bryan Pereyra",
   "license": "ISC",
-  "description": "",
+  "description": "API built in Express.js for ecommerce application",
   "dependencies": {
 "bcrypt": "^5.1.1",
     "dotenv": "^16.4.7",
